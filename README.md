@@ -63,7 +63,7 @@
 <a target="_blank" href="https://medium.com/@graceabike"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/graceabike1"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 </p>
-<img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=graceabikem&bg_color=0C1014&color=258F76&line=90C5C2&point=FFFFFF&hide_border=true">
+<img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=graceabike&bg_color=0C1014&color=258F76&line=90C5C2&point=FFFFFF&hide_border=true">
 
 <!---
 GraceAbike/GaceAbike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
