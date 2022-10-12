@@ -4,6 +4,24 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Coding%20Mentor%20at%20Microverse;Full-Stack%20Web%20Developer;Enrolled%20in%20Microverse&font=Fira%20Code&center=true&width=700&height=45&color=258F76&vCenter=true&size=30&pause=1000">
 </h2>
 
+<h4 align="left">
+const aboutGraceAbike = { <br>
+Nationality: 'Ondo, Nigeria', <br>
+Residence: 'Reggio Emilia, Italy', <br>
+I’mCurrentlyWorkingOn 🔭: ['TodoListApp', 'UnitTesting', 'API'] <br>
+I’mCurrentlyLearning  🌱: ['JavaScript', 'Bootstrap', 'React'], <br>
+I’mLookingToCollaborateOn 👯: 'Any open source code on github', <br>
+I’m looking for help with 🤔: 'React Js', <br>
+AskMeAbout 💬: 'Promises on Js', <br>
+HowToReachMe 📫: ''+393478633572,+393512274001:, <br>
+Pronouns 😄: ['She', 'her'], <br>
+Fun fact ⚡:'mention six animals tha live in water:['Frog', 'Frog's father', Frog's mother, 'Frog's brother', 'Frog's sister', 'and his cousine'], <br>
+quote: 'Any clean code without debuging, is like is a beautiful flower  without a good root which fades away in due season', <br>
+isHeWorking: false, <br>
+hasDegree: true, <br>
+isHeReadyForNewOppurtunties: true <br>
+}
+<h4>
 - 🌱 Learning **JavaScript | Ruby | RoR | SQl | Algorithm and Data Structures | Data Science | Machine Learning | Artificial Intelligence**
 
 - 📫 How to reach me **mara234216@gmail.com**
